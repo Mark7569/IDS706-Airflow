@@ -1,8 +1,3 @@
-"""First learning checkpoint. Independent source tasks, no third-party packages.
-
-Run: python3 scripts/prepare_data.py
-Functions will be reused by the Airflow DAG in the next checkpoint.
-"""
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, timedelta
 from pathlib import Path

@@ -1,4 +1,3 @@
-"""Chronological model selection. Only final scoring sees holdout labels."""
 import numpy as np
 from sklearn.compose import ColumnTransformer
 from sklearn.dummy import DummyRegressor

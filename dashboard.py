@@ -1,4 +1,3 @@
-"""Live graph is generated from the compiled workflow, never a separate mock."""
 import graphviz
 import streamlit as st
 

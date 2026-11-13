@@ -1,4 +1,3 @@
-"""Transactional, idempotent loading and explicit database reads."""
 import os
 from pathlib import Path
 
